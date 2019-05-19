@@ -1,4 +1,5 @@
 #Overview
+
 In this project, a model that can predict the price of google stock using the Linear Regression Algorithm was built. It achieved over 98% accuracy.
 
 The dataset that was used for this project was from August 2004 to March 2018, and was acquired from [Quandl](https://www.quandl.com/).
